@@ -1,0 +1,9 @@
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\bin\Debug\DrawDiamondInWinForm.exe.config
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\bin\Debug\DrawDiamondInWinForm.exe
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\bin\Debug\DrawDiamondInWinForm.pdb
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\obj\Debug\DrawDiamondInWinForm.csprojResolveAssemblyReference.cache
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\obj\Debug\DrawDiamondInWinForm.Form1.resources
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\obj\Debug\DrawDiamondInWinForm.Properties.Resources.resources
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\obj\Debug\DrawDiamondInWinForm.csproj.GenerateResource.Cache
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\obj\Debug\DrawDiamondInWinForm.exe
+D:\Projects\DrawDiamondInWinForm\DrawDiamondInWinForm\obj\Debug\DrawDiamondInWinForm.pdb
